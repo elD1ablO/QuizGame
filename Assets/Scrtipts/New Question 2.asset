@@ -15,8 +15,8 @@ MonoBehaviour:
   question: How long does it takes to travel from western border of Ukraine to eastern
     one?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctIndex: 0
+  - 0.5h
+  - 10h
+  - 1316 km
+  - 2487 km
+  correctIndex: 2

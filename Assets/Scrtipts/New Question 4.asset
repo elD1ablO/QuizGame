@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Name of the prettiest and smartest dachund?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctIndex: 0
+  - Um.. i dunno
+  - Jack
+  - Lessie
+  - Marichka
+  correctIndex: 3
